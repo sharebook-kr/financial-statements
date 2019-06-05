@@ -1,1 +1,9 @@
-# financial-statements
+# 코스피/코스닥 주식투자용 10년치 재무제표
+
+다양한 소스로부터 모은 재무제표에서 주식투자에 필요한 항목들만 모은 데이터입니다. 
+
+# To-Do
+checklist.xlsx 파일을 열어서 에러가 있는 종목에 대해서 에러를 수정해서 pull request 해주시면 됩니다.
+엑셀 파일에도 수정 상태를 Pull requests로 변경해주세요. 
+
+
